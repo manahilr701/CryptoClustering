@@ -67,4 +67,4 @@ Combining K-Means clustering with PCA for dimensionality reduction enhances the 
 ## 🔧 How to Run
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/manahilr701/CryptoClustering.git
