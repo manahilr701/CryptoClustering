@@ -72,7 +72,7 @@ Combining K-Means clustering with PCA for dimensionality reduction enhances the 
 ### Navigate to the project directory:
 ```bash
 cd CryptoClustering
-
+```
 ### Run all cells in the notebook to reproduce the analysis.
 
 ## 📂 Directory Structure
@@ -80,7 +80,7 @@ cd CryptoClustering
 ├── Crypto_Clustering.ipynb  # Jupyter Notebook with project code
 ├── crypto_market_data.csv    # Dataset used for clustering
 └── README.md                 # Project documentation
-
+```
 ##  🎓 Acknowledgments
 - **Instructor**: For guidance on machine learning techniques.
 - **Dataset Source**: Provided as part of the assignment.
