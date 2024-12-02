@@ -68,3 +68,20 @@ Combining K-Means clustering with PCA for dimensionality reduction enhances the 
 1. Clone the repository:
    ```bash
    git clone https://github.com/manahilr701/CryptoClustering.git
+  
+### Navigate to the project directory:
+```bash
+cd CryptoClustering
+
+### Run all cells in the notebook to reproduce the analysis.
+
+## 📂 Directory Structure
+```plaintext
+├── Crypto_Clustering.ipynb  # Jupyter Notebook with project code
+├── crypto_market_data.csv    # Dataset used for clustering
+└── README.md                 # Project documentation
+
+##  🎓 Acknowledgments
+- **Instructor**: For guidance on machine learning techniques.
+- **Dataset Source**: Provided as part of the assignment.
+
